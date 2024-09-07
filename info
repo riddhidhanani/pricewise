@@ -1,0 +1,9 @@
+cheerio extract data to be displayed on web page
+beacuse console log after searching product gives big unusual data cheerio will extract particular par
+
+axios is also used
+
+database to keep the history of price and mongodb is used
+
+brightdata is used to scrape data
+data modeller for mongodb database-mongoose help to make connection with mongodb database
